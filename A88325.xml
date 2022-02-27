@@ -1,0 +1,579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of such of the Navy Royall, as also of the merchants ships as are set forth to sea for this summers expedition 1645. in the service of the King and Parliament together with their names, captains, burthens, number of men, and ordnance in every ship.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88325</idno>
+            <idno type="STC">Wing L2410</idno>
+            <idno type="STC">Thomason 669.f.9[36]</idno>
+            <idno type="STC">ESTC R212239</idno>
+            <idno type="EEBO-CITATION">99870881</idno>
+            <idno type="PROQUEST">99870881</idno>
+            <idno type="VID">161134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161134)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f9[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of such of the Navy Royall, as also of the merchants ships as are set forth to sea for this summers expedition 1645. in the service of the King and Parliament together with their names, captains, burthens, number of men, and ordnance in every ship.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June ye 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_ships">
+            <pb facs="tcp:161134:1" rendition="simple:additions"/>
+            <head>A Liſt of ſuch of the Navy Royall, as alſo of the Merchants Ships as are ſet forth to Sea for this Summers Expedition 1645. in the Service of the KING and PARLIAMENT; Together with their Names, Captains, Burthens, number of Men, and Ordnance in every Ship.</head>
+            <p>
+               <table>
+                  <head>His Majeſties Ships</head>
+                  <row>
+                     <cell>
+                        <hi>Ships Names</hi>
+                     </cell>
+                     <cell>
+                        <hi>Commanders</hi>
+                     </cell>
+                     <cell>
+                        <hi>tuns</hi>
+                     </cell>
+                     <cell>
+                        <hi>men</hi>
+                     </cell>
+                     <cell>
+                        <hi>ordn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 James, <hi>Admirall</hi>
+                     </cell>
+                     <cell>Rich. Blythe</cell>
+                     <cell>875</cell>
+                     <cell>280</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>2 Andrew, <hi>Viceadm.</hi>
+                     </cell>
+                     <cell>William Batten</cell>
+                     <cell>650</cell>
+                     <cell>260</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>3 Garland, <hi>Rereadm.</hi>
+                     </cell>
+                     <cell>Rich. Owen</cell>
+                     <cell>575</cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>4 Lyon</cell>
+                     <cell>Rich. Swanley</cell>
+                     <cell>600</cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>5 Bonaventure</cell>
+                     <cell>Hen. Bethell</cell>
+                     <cell>557</cell>
+                     <cell>170</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>6 Leopard</cell>
+                     <cell>John Bowen</cell>
+                     <cell>520</cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>7 Antelope</cell>
+                     <cell>Edw. Hall</cell>
+                     <cell>512</cell>
+                     <cell>160</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>8 Entrance</cell>
+                     <cell>William Smith</cell>
+                     <cell>539</cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>9 Swallow</cell>
+                     <cell>William Somaſter</cell>
+                     <cell>500</cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>10 John</cell>
+                     <cell>Robert Zachery</cell>
+                     <cell>400</cell>
+                     <cell>110</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>11 Fellowſhip</cell>
+                     <cell>William Pen</cell>
+                     <cell>300</cell>
+                     <cell>110</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>12 Globe</cell>
+                     <cell>Rich. Willoughby</cell>
+                     <cell>300</cell>
+                     <cell>100</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>13 Sampſon</cell>
+                     <cell>Ric. Whitty</cell>
+                     <cell>300</cell>
+                     <cell>70</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>14 Expedition</cell>
+                     <cell>Joſeph Jourdain</cell>
+                     <cell>260</cell>
+                     <cell>100</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>15 Mary Roſe</cell>
+                     <cell>Phines Pet</cell>
+                     <cell>321</cell>
+                     <cell>100</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>16 Providence</cell>
+                     <cell>Iohn Stansby</cell>
+                     <cell>260</cell>
+                     <cell>100</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>17 Hector</cell>
+                     <cell>Edward Elliot</cell>
+                     <cell>300</cell>
+                     <cell>70</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>18 Eighth Whelp</cell>
+                     <cell>Iohn Kearſe</cell>
+                     <cell>200</cell>
+                     <cell>60</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>19 Warwick Frigot</cell>
+                     <cell>William Thomas</cell>
+                     <cell>200</cell>
+                     <cell>80</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>20 Cygnet</cell>
+                     <cell>Iohn Man</cell>
+                     <cell>160</cell>
+                     <cell>70</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>21 Creſcent</cell>
+                     <cell>Iohn Edwin</cell>
+                     <cell>140</cell>
+                     <cell>50</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>22 Starre</cell>
+                     <cell>Robert Conſtable</cell>
+                     <cell>130</cell>
+                     <cell>60</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>23 Hinde</cell>
+                     <cell>Thomas Pilgrim</cell>
+                     <cell>140</cell>
+                     <cell>70</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>24 Greyhound</cell>
+                     <cell>Iohn Coppin</cell>
+                     <cell>120</cell>
+                     <cell>50</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>25 Lilly</cell>
+                     <cell>Iohn Lambert</cell>
+                     <cell>80</cell>
+                     <cell>45</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>26 Nichodemus</cell>
+                     <cell>Tho Pacy</cell>
+                     <cell>80</cell>
+                     <cell>45</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>27 Duncannon Frig</cell>
+                     <cell>Sam. Howet</cell>
+                     <cell> </cell>
+                     <cell>50</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>28 Welcomb Pink</cell>
+                     <cell>Iohn Green</cell>
+                     <cell> </cell>
+                     <cell>45</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>29 Charles Frigot</cell>
+                     <cell>Robert Clark</cell>
+                     <cell>50</cell>
+                     <cell>26</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>30 Dainty Pink</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>31 Dove</cell>
+                     <cell>William Hazard</cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>32 Robert</cell>
+                     <cell>William Rew</cell>
+                     <cell> </cell>
+                     <cell>40</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Merchants Ships</head>
+                  <row>
+                     <cell>
+                        <hi>Ships Names</hi>
+                     </cell>
+                     <cell>
+                        <hi>Commanders</hi>
+                     </cell>
+                     <cell>
+                        <hi>tuns</hi>
+                     </cell>
+                     <cell>
+                        <hi>men</hi>
+                     </cell>
+                     <cell>
+                        <hi>ordn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 May-flower</cell>
+                     <cell>Roger Phillips</cell>
+                     <cell>405</cell>
+                     <cell>121</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>2 Conſt. Warwick</cell>
+                     <cell>Iohn Gilſon</cell>
+                     <cell>300</cell>
+                     <cell>120</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>3 Anne and Ioyce</cell>
+                     <cell>Thomas Iones</cell>
+                     <cell>300</cell>
+                     <cell>90</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>4 True-love</cell>
+                     <cell>Gervas Coachman</cell>
+                     <cell>259</cell>
+                     <cell>75</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>5 Rebecca</cell>
+                     <cell>Stephen Rich</cell>
+                     <cell>250</cell>
+                     <cell>75</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>6 Geo. Bonaventure</cell>
+                     <cell>Iohn Cramp</cell>
+                     <cell>243</cell>
+                     <cell>73</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>7 Nicholas</cell>
+                     <cell>Richard Bray</cell>
+                     <cell> </cell>
+                     <cell>57</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>8 Anne Percy</cell>
+                     <cell>Thomas Smith</cell>
+                     <cell> </cell>
+                     <cell>75</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>9 Lucy</cell>
+                     <cell>Elias Drew</cell>
+                     <cell>160</cell>
+                     <cell>64</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>10 Providence</cell>
+                     <cell>Roger Martin</cell>
+                     <cell>180</cell>
+                     <cell>54</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>11 Ioceline</cell>
+                     <cell>Robert Clark</cell>
+                     <cell>196</cell>
+                     <cell>59</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>12 Magdalen</cell>
+                     <cell>Iohn Hoſier</cell>
+                     <cell>185</cell>
+                     <cell>56</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>13 Covenant</cell>
+                     <cell>Iohn Lawſon</cell>
+                     <cell>140</cell>
+                     <cell>56</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>14 Mary &amp; Anne</cell>
+                     <cell>Peter Wappall</cell>
+                     <cell>150</cell>
+                     <cell>45</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>15 Spy Frigot</cell>
+                     <cell>Andrew Davis</cell>
+                     <cell>40</cell>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>16 Green Frigot</cell>
+                     <cell>Thomas Farmer</cell>
+                     <cell>30</cell>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>17 Sea-flower</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>18 Defiance</cell>
+                     <cell>William Brookes</cell>
+                     <cell> </cell>
+                     <cell>50</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>19 Roe Buck</cell>
+                     <cell>William Lifton</cell>
+                     <cell>80</cell>
+                     <cell>40</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Additionall Merchants Ships.</head>
+                  <row>
+                     <cell>1 Hector</cell>
+                     <cell>Thomas Beddall</cell>
+                     <cell>300</cell>
+                     <cell>80</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>2 Ark</cell>
+                     <cell>Iohn Lockier</cell>
+                     <cell>150</cell>
+                     <cell>50</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>3 Merchants delight</cell>
+                     <cell>Thomas Wils</cell>
+                     <cell>300</cell>
+                     <cell>50</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>4 Elizabeth</cell>
+                     <cell>Iohn Bowman</cell>
+                     <cell>300</cell>
+                     <cell>50</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>5 Adventure</cell>
+                     <cell>Thomas Wilch</cell>
+                     <cell>200</cell>
+                     <cell>40</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>6 Diſcovery</cell>
+                     <cell>Thomas Plunket</cell>
+                     <cell>350</cell>
+                     <cell>130</cell>
+                     <cell>28</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for LAURENCE BLAIKLOCK <hi>Anno Dom.</hi> 1645.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
